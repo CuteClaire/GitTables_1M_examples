@@ -2,6 +2,7 @@ GitTables_1M_examples
 ## .parquet
 一个parquet文件由 **metadata** + **table** 组成
 ### metadata
+原文件metadata无换行和缩进，整理为含换行与缩进样式
 在本例子中整理为metadata.txt:
 ```
 {
