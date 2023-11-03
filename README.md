@@ -3,6 +3,7 @@ GitTables_1M_examples
 一个parquet文件由 **metadata** + **table** 组成
 ### metadata
 原文件metadata无换行和缩进，整理为含换行与缩进样式
+
 在本例子中整理为metadata.txt:
 ```
 {
@@ -308,6 +309,7 @@ GitTables_1M_examples
 ```
 ### table
 在本例子中整理为table.csv
+
 与GitTables_1M_csv中的原表内容相同：
 |    ID  |  Type   |   Story   |  Parent  | Points | Comments |  Author   |           Title           |                                   URL                                   | Content |   Created   |
 |--------|---------|-----------|----------|--------|----------|-----------|---------------------------|-------------------------------------------------------------------------|---------|-------------|
